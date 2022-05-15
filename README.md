@@ -24,5 +24,5 @@ mem
 run nofastmem
 mem
 run nofastmem
-run
+mem
 ```
